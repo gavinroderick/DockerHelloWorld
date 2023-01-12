@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8DCB0025-B775-48EE-B05C-5B266E0E5B94}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
+    <Files>
+      <File FileName="Dockerfile.txt" Line="4" Column="1" />
+      <File FileName="DockerHelloWorld/DockerHelloWorld.csproj" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DockerHelloWorld" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="DockerHelloWorld" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DockerHelloWorld PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

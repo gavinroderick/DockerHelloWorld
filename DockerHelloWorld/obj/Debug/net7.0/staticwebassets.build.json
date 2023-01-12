@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "18N47NOGvTbN6pxP34SsE3tPpsWz81lRAfOMzhdJfg0=",
+  "Source": "DockerHelloWorld",
+  "BasePath": "_content/DockerHelloWorld",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
